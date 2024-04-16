@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "CheilRoman-Bold";
+    src: url(CheilRoman-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "CheilRoman-Medim";
+    src: url(CheilRoman-Medium.ttf);
+}
+
+body {
+    margin: 0 auto;
+    font-family: "CheilRoman-Medium";
+    font-size: 20px;
+}
+
+header {
+    display: flex;
+    width: 100%;
+}
+
+main {
+    width: 60%;
+    margin: 0 auto;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
+#survey-form {
+    margin-top: 50px;
+}
+
+.result-text {
+    text-align: justify;
+}
+
+.bold {
+    font-family: "CheilRoman-Bold";
+}
+
+.text-xl {
+    font-size: 24px;
+    font-weight: 700;
+}
