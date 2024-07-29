@@ -1,0 +1,1366 @@
+[
+    {
+        "name": "ADCELL",
+        "rating": "4,7",
+        "reviews": 232,
+        "scores": {
+            "ease_of_use": "9",
+            "requirements": "9.3",
+            "support": "9.5",
+            "set_up": "9"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Provisionsart per Sale",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Webgains",
+        "rating": "4,6",
+        "reviews": 154,
+        "scores": {
+            "ease_of_use": "8.8",
+            "requirements": "9.2",
+            "support": "9.5",
+            "set_up": "9"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Provisionsart per Sale",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Ticketsystem Support",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Awin",
+        "rating": "4,2",
+        "reviews": 215,
+        "scores": {
+            "ease_of_use": "8.7",
+            "requirements": "8.7",
+            "support": "7.9",
+            "set_up": "8.2"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead"
+            ],
+            "tracking": [
+                "Provisionsart per Sale",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "retailAds",
+        "rating": "4,7",
+        "reviews": 56,
+        "scores": {
+            "ease_of_use": "9.5",
+            "requirements": "9.3",
+            "support": "9.8",
+            "set_up": "9.1"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "1st-Party-Subdomain-Tracking",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Private Network",
+                "Provisionsart per Sale",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "1st-Party-Subdomain-Tracking",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Private Network",
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "impact.com",
+        "rating": "4,1",
+        "reviews": 53,
+        "scores": {
+            "ease_of_use": "8.2",
+            "requirements": "8.7",
+            "support": "9",
+            "set_up": "8.1"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Private Network",
+                "Provisionsart per Sale",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Ticketsystem Support",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Private Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "CJ",
+        "rating": "4,1",
+        "reviews": 43,
+        "scores": {
+            "ease_of_use": "7.5",
+            "requirements": "8.5",
+            "support": "8.7",
+            "set_up": "8"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Provisionsart per Sale",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Ticketsystem Support",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Tradedoubler",
+        "rating": "4,0",
+        "reviews": 51,
+        "scores": {
+            "ease_of_use": "7.7",
+            "requirements": "8.3",
+            "support": "8.5",
+            "set_up": "8.1"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Cookietracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Public Network",
+                "Provisionsart per Sale",
+                "Gutscheincode-Tracking",
+                "Provisionsart per Click",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Provisionsart per Lifetime",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Provisionsart per Lead",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Server to Server Tracking"
+            ],
+            "support": [],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Ingenious Technologies",
+        "rating": "4,6",
+        "reviews": 26,
+        "scores": {
+            "ease_of_use": "8.8",
+            "requirements": "9.5",
+            "support": "9.1",
+            "set_up": "8.8"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "TradeTracker",
+        "rating": "4,2",
+        "reviews": 31,
+        "scores": {
+            "ease_of_use": "8.5",
+            "requirements": "8.8",
+            "support": "8.5",
+            "set_up": "8.7"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Provisionsart per Sale",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Ticketsystem Support",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "lead alliance",
+        "rating": "4,4",
+        "reviews": 25,
+        "scores": {
+            "ease_of_use": "9.3",
+            "requirements": "9.3",
+            "support": "9.6",
+            "set_up": "9.2"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Private Network",
+                "Provisionsart per Sale",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Ticketsystem Support",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Private Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Admitad",
+        "rating": "4,3",
+        "reviews": 26,
+        "scores": {
+            "ease_of_use": "9",
+            "requirements": "8.9",
+            "support": "9.6",
+            "set_up": "8.5"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "financeAds",
+        "rating": "4,2",
+        "reviews": 25,
+        "scores": {
+            "ease_of_use": "8.3",
+            "requirements": "9",
+            "support": "8.5",
+            "set_up": "8.5"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Provisionsart per Sale",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Ticketsystem Support",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Rakuten Affiliate Network",
+        "rating": "4,2",
+        "reviews": 25,
+        "scores": {
+            "ease_of_use": "7.5",
+            "requirements": "8.6",
+            "support": "9.1",
+            "set_up": "8.1"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Private Network",
+                "Provisionsart per Sale",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Provisionsart per Lifetime",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Ticketsystem Support",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Private Network",
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Belboon",
+        "rating": "3,9",
+        "reviews": 31,
+        "scores": {
+            "ease_of_use": "8.3",
+            "requirements": "8.2",
+            "support": "8.7",
+            "set_up": "8.7"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Funktion zum Finden neuer Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Provisionsart per Sale",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Funktion zum Finden neuer Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Ticketsystem Support",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Vchfy",
+        "rating": "4,6",
+        "reviews": 16,
+        "scores": {
+            "ease_of_use": "9.8",
+            "requirements": "9",
+            "support": "9.9",
+            "set_up": "9.6"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "uppr",
+        "rating": "4,5",
+        "reviews": 11,
+        "scores": {
+            "ease_of_use": "9.7",
+            "requirements": "9.4",
+            "support": "9.9",
+            "set_up": "8.7"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "MyLead",
+        "rating": "4,3",
+        "reviews": 12,
+        "scores": {
+            "ease_of_use": "9.2",
+            "requirements": "8.9",
+            "support": "8.2",
+            "set_up": "9"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "Amazon PartnerNet",
+        "rating": "4,0",
+        "reviews": 13,
+        "scores": {
+            "ease_of_use": "8.7",
+            "requirements": "9.2",
+            "support": "7.1",
+            "set_up": "8.8"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "communicationAds",
+        "rating": "4,5",
+        "reviews": 9,
+        "scores": {
+            "ease_of_use": "8.3",
+            "requirements": "8.9",
+            "support": "9.2",
+            "set_up": "8.4"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Provisionsart per Sale",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Public Network",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Adtraction",
+        "rating": "4,2",
+        "reviews": 9,
+        "scores": {
+            "ease_of_use": "9.2",
+            "requirements": "8.9",
+            "support": "9.4",
+            "set_up": "8.9"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "easy Marketing",
+        "rating": "4,4",
+        "reviews": 8,
+        "scores": {
+            "ease_of_use": "9.4",
+            "requirements": "9.2",
+            "support": "9.6",
+            "set_up": "9.5"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Container Tag zur Integration von Tech-Partnern",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead",
+                "Provisionsart per Lifetime"
+            ],
+            "tracking": [
+                "Private Network",
+                "Provisionsart per Sale",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Provisionsart per Lifetime",
+                "Post-View Tracking",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Cookietracking",
+                "Provisionsart per Click",
+                "Newsletter an Affiliates selbstst\u00e4ndig verschickbar",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Fingerprint Tracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Parameter Tracking",
+                "Sessiontracking",
+                "Ticketsystem Support",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Server to Server Tracking",
+                "Email Support",
+                "Gutscheincode-Tracking",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Publisher-Einordnung m\u00f6glich (Gruppierung/Tags)",
+                "Container Tag zur Integration von Tech-Partnern"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Pers\u00f6nlicher Ansprechpartner beim Netzwerk",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Private Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "FinanceQuality",
+        "rating": "4,8",
+        "reviews": 6,
+        "scores": {
+            "ease_of_use": "9.5",
+            "requirements": "10",
+            "support": "9.8",
+            "set_up": "9.8"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "MCANISM",
+        "rating": "4,4",
+        "reviews": 7,
+        "scores": {
+            "ease_of_use": "9",
+            "requirements": "9.4",
+            "support": "9.6",
+            "set_up": "9.6"
+        },
+        "features": {
+            "use_cases": [
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Gutscheincode-Tracking",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates"
+            ],
+            "commission": [
+                "Provisionsart per Sale",
+                "Provisionsart per Click",
+                "Provisionsart per Lead"
+            ],
+            "tracking": [
+                "Cookietracking",
+                "Account-Benutzer mit verschiedenen Rechten",
+                "Email Support",
+                "Public Network",
+                "Provisionsart per Sale",
+                "Gutscheincode-Tracking",
+                "Provisionsart per Click",
+                "Ticketsystem Support",
+                "\u00dcbernahme Hosting von Bannern durch Affiliate-Netzwerk",
+                "Publisher-Gruppen als dynamische Parameter verf\u00fcgbar f\u00fcr Tracking-Links",
+                "Nachbuchungstool f\u00fcr Cashback- und Loyalty-Affiliates",
+                "Provisionsart per Lead",
+                "Telefon Support",
+                "Aktionsm\u00f6glichkeiten vom Affiliate Netzwerk",
+                "Regelm\u00e4\u00dfige News zu neuen Affiliates",
+                "Server to Server Tracking"
+            ],
+            "support": [
+                "Ticketsystem Support",
+                "Telefon Support",
+                "Email Support"
+            ],
+            "network_type": [
+                "Public Network"
+            ],
+            "control": [],
+            "link_options": [],
+            "utility": []
+        }
+    },
+    {
+        "name": "Partnerize",
+        "rating": "3,6",
+        "reviews": 9,
+        "scores": {
+            "ease_of_use": "7.1",
+            "requirements": "8.1",
+            "support": "6.6",
+            "set_up": "7.3"
+        },
+        "features": {
+            "use_cases": [],
+            "commission": [],
+            "tracking": [
+                "E-Mail-Updates",
+                "Custom Links",
+                "Affiliate Tracking",
+                "Referral Link Generator",
+                "Rollenbasierte Zugriffsrechte",
+                "Individuelle Portale",
+                "Cookieless Tracking",
+                "Action Tracking"
+            ],
+            "support": [],
+            "network_type": [],
+            "control": [
+                "Rollenbasierte Zugriffsrechte"
+            ],
+            "link_options": [
+                "Referral Link Generator",
+                "Custom Links"
+            ],
+            "utility": [
+                "Individuelle Portale",
+                "Action Tracking"
+            ]
+        }
+    },
+    {
+        "name": "Digistore24",
+        "rating": "4,1",
+        "reviews": 32,
+        "scores": {
+            "ease_of_use": "8.1",
+            "requirements": "8.8",
+            "support": "8.3",
+            "set_up": "8.5"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "Refersion",
+        "rating": "4,0",
+        "reviews": 4,
+        "scores": {
+            "ease_of_use": "8.6",
+            "requirements": "8.9",
+            "support": "8.1",
+            "set_up": "8.2"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "vitrado.de",
+        "rating": "4,3",
+        "reviews": 4,
+        "scores": {
+            "ease_of_use": "8.6",
+            "requirements": "9.6",
+            "support": "9",
+            "set_up": "8.6"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "Daisycon",
+        "rating": "4,5",
+        "reviews": 2,
+        "scores": {
+            "ease_of_use": "7.9",
+            "requirements": "10",
+            "support": "10",
+            "set_up": "8.6"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "smava Partnerprogramm",
+        "rating": "4,5",
+        "reviews": 1,
+        "scores": {
+            "ease_of_use": "8.6",
+            "requirements": "10",
+            "support": "10",
+            "set_up": "8.6"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "ADCocktail.com",
+        "rating": "4,5",
+        "reviews": 1,
+        "scores": {
+            "ease_of_use": "10",
+            "requirements": "10",
+            "support": "8.6",
+            "set_up": "10"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "Dognet",
+        "rating": "4,0",
+        "reviews": 1,
+        "scores": {
+            "ease_of_use": "10",
+            "requirements": "7.1",
+            "support": "10",
+            "set_up": "8.6"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "Tune",
+        "rating": "4,3",
+        "reviews": 3,
+        "scores": {
+            "ease_of_use": "8.6",
+            "requirements": "8.6",
+            "support": "8.1",
+            "set_up": "8.6"
+        },
+        "features": {
+            "use_cases": [],
+            "commission": [],
+            "tracking": [
+                "E-Mail-Updates",
+                "Dashboards",
+                "Daten-Visualisierungen",
+                "Opportunit\u00e4tsmanagement",
+                "Custom Links",
+                "Benutzerdefinierte Berichte",
+                "Affiliate Tracking",
+                "Umfassende Arbeitsabl\u00e4ufe",
+                "Anerkannte Eskalation",
+                "Datenbank f\u00fcr Marketingmaterial",
+                "Referral Link Generator",
+                "Reporting",
+                "Rollenbasierte Zugriffsrechte",
+                "Attributionsmodellierung",
+                "Individuelle Portale",
+                "Cookieless Tracking",
+                "Single Touch Attribution"
+            ],
+            "support": [],
+            "network_type": [],
+            "control": [
+                "Anerkannte Eskalation",
+                "Opportunit\u00e4tsmanagement",
+                "Rollenbasierte Zugriffsrechte"
+            ],
+            "link_options": [
+                "Referral Link Generator",
+                "Custom Links"
+            ],
+            "utility": [
+                "Dashboards",
+                "Daten-Visualisierungen",
+                "Benutzerdefinierte Berichte",
+                "Umfassende Arbeitsabl\u00e4ufe",
+                "Datenbank f\u00fcr Marketingmaterial",
+                "Reporting",
+                "Attributionsmodellierung",
+                "Individuelle Portale",
+                "Single Touch Attribution"
+            ]
+        }
+    },
+    {
+        "name": "advanced ad",
+        "rating": "5,0",
+        "reviews": 1,
+        "scores": {
+            "ease_of_use": "10",
+            "requirements": "10",
+            "support": "10",
+            "set_up": "10"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "plug&paid",
+        "rating": "4,0",
+        "reviews": 1,
+        "scores": {
+            "ease_of_use": "8.6",
+            "requirements": "8.6",
+            "support": "8.6",
+            "set_up": "10"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "Kartra",
+        "rating": "3,5",
+        "reviews": 1,
+        "scores": {
+            "ease_of_use": "10",
+            "requirements": "5.7",
+            "support": "10",
+            "set_up": "10"
+        },
+        "features": "No features found"
+    },
+    {
+        "name": "Voluum",
+        "rating": "3,5",
+        "reviews": 1,
+        "scores": {
+            "ease_of_use": "8.6",
+            "requirements": "7.1",
+            "support": "8.6",
+            "set_up": "7.1"
+        },
+        "features": {
+            "use_cases": [],
+            "commission": [],
+            "tracking": [
+                "Provisionen & Auszahlungen",
+                "Custom Links",
+                "Affiliate Tracking",
+                "Personalisierung",
+                "Smart-Links",
+                "Referral Link Generator",
+                "Affiliate Management",
+                "Affiliate-Netzwerk",
+                "Cookieless Tracking"
+            ],
+            "support": [],
+            "network_type": [],
+            "control": [],
+            "link_options": [
+                "Smart-Links",
+                "Referral Link Generator",
+                "Custom Links"
+            ],
+            "utility": []
+        }
+    }
+]
